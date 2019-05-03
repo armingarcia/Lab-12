@@ -12,7 +12,7 @@ import java.util.List;
  */
 public class FormData implements Serializable
 {
-	/**
+	/*****
 	 * Serialization ID - indicates which version of the code was used to write out the data to file.
 	 */
 	private static final long serialVersionUID = 5L;
