@@ -3,7 +3,7 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-/****
+/******
  * Class to represent the form data filled in by a user. Data is may be written out to a file and may
  * be loaded back in from a file. However, the social security number of the user should not be recorded.
  *
